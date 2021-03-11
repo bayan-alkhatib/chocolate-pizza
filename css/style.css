@@ -58,7 +58,7 @@ nav {
 }
 
 header hr, main hr {
-background-image:url("/img/hr-img.png");
+background-image:url("../img/hr-img.png");
 background-repeat: repeat;
 width:100% ;
 padding: 10px;
@@ -110,7 +110,7 @@ color: rgb(143, 143, 143);
 }
 
 .article2{
-background-image: url("/img/list-bg.png") ;
+background-image: url("../img/list-bg.png") ;
 background-repeat: no-repeat;
 background-size: cover;
 margin-bottom:50px ;
