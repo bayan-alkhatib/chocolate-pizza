@@ -8,9 +8,6 @@ padding: 0px;
 font-family: 'Montserrat', sans-serif;
 }
 
-ol, ul {
-	list-style: none;}
-
 a {
   text-decoration: none;
 }
@@ -183,5 +180,9 @@ padding:50px ;
   text-align: center;
   color:rgb(196, 196, 196) ;
   font-size: medium;
+ main
+}
+
 }
  
+ main
