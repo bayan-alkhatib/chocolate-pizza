@@ -110,3 +110,43 @@ padding:50px ;
   input, label{
     margin-bottom:20px ;
   }
+
+  .footer1{
+    margin:20px ;
+  }
+
+  .footer11{
+    display:inline-block;
+    width:75% ;
+  }
+  .footer11 img{
+    float: left;
+    margin-right:20px ;
+  }
+
+.footer11 h3{
+  margin:5px ;
+}
+
+  button {
+    width:18% ;
+    padding:17px; 
+    margin-left:50px ;
+    vertical-align: top;
+    background-color: rgba(179, 64, 64, 0.932);
+    color: white;
+    border-style: none;
+  }
+  hr {
+    width: 45%;
+    display:inline-block;
+  }
+  .footer21  {
+    width:45%;
+    float:right;
+  }
+/* .footer21 img{
+  display: inline-block;
+  float:right;
+} */
+ 
