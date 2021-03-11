@@ -77,3 +77,36 @@ color: rgb(143, 143, 143);
   display: inline;
 }
 
+.article1 img{
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.article1 p{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-indent: 50px;
+}
+
+.article2{
+background-image: url("/img/list-bg.png") ;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.article21 {
+display: inline-block;
+width :49%;
+padding:50px ;
+
+}
+
+.article22 {
+  width :49%;
+  float: right;
+  padding:50px ;
+  }
+  input, label{
+    margin-bottom:20px ;
+  }
