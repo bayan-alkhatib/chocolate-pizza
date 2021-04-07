@@ -4,8 +4,6 @@ console.log(input);
 let label=document.getElementsByTagName('label');
 console.log(label);
 
-// input.addEventListener('checked',checkbox);
-
 function check () {
   for(let i=0;i<input.length;i++){
     if(input[i].type==='checkbox'){
