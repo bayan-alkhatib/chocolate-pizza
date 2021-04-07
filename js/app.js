@@ -21,11 +21,12 @@ function checkbox(event){
         label[j].style.textDecoration='line-through' ;
       }
     }
-  }else{for (let j=0;j<label.length;j++){
-    if(event.target.id===label[j].id){
-      label[j].style.textDecoration='none';
+  }else{
+    for (let j=0;j<label.length;j++){
+      if(event.target.id===label[j].id){
+        label[j].style.textDecoration='none';
+      }
     }
-  }
   }
 }
 
